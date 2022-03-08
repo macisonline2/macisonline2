@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @macisonline2
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... PowerShell
 - 📫 How to reach me ... macisonline@hotmail.com
 
 <!---
